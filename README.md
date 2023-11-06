@@ -4,3 +4,9 @@
 
 # ETL project: 250 Best Movies
 An audience-focused movie list.
+
+
+
+
+# Veredict:
+
