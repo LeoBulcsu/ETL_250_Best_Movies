@@ -49,5 +49,7 @@ https://www.themoviedb.org/
 
 https://www.kaggle.com/datasets/miazhx/metacritic-movie-reviews
 
+https://view.genial.ly/6549d86b33c521001117a612/presentation-etl-250-best
+
 
 
